@@ -52,7 +52,7 @@ Liens
 * Chargement par configuration : http://docs.hazelcast.org/docs/3.3/manual/html/config.html
 * Repot github : https://github.com/hazelcast
 * Console d'administration : http://docs.hazelcast.org/docs/2.2/manual/html/ch17.html
-
+* Presentation de divers solutions de cache & Hazelcast : https://fr.slideshare.net/tmatyashovsky/from-cache-to-in-memory-data-grid-introduction-to-hazelcast
 
 
 
