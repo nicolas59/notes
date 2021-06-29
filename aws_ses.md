@@ -1,6 +1,6 @@
 https://almirzulic.com/posts/how-to-handle-email-bounces-on-aws-ses/
 
-simulateur aws : https://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-email-simulator.htmlhttps://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-email-simulator.html
+simulateur aws : https://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-email-simulator.html
 
 aws scénario https://aws.amazon.com/fr/blogs/messaging-and-targeting/
 
