@@ -7,4 +7,13 @@ Vocabulaire
 * Services : 
 * Replication Controllers
 
+
+Outils
+==========
+* Velero : solution de backuup des namespaces (volume & ressources)
+* Istio : securisation et porfilings réseau¨
+* lens : dashboard client lourd
+
+
+
   
