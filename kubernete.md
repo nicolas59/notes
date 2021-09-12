@@ -14,6 +14,12 @@ Outils
 * Istio : securisation et porfilings réseau¨
 * lens : dashboard client lourd
 
+Minikube
+=========
+* Permet de connecter le docker local à celui de la VM minikuube
+
+`eval $(minikube docker-env)`
+
 
 
   
