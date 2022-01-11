@@ -8,7 +8,7 @@ Culture.
 - en itérant, automatisant et monitorant
 - centré sur les produits developpés
 - chaine de deploiement CI/CD
-- de nbreuses connaissances aupravant orhogonales ??
+- de nombreuses connaissances aupravant orhogonales ??
 
 
 Definitions google : 
@@ -26,6 +26,7 @@ Accepter les echecs, reduire les silos, implémenter à l'échelle, automatisati
 
 
 ### En commun 
+Supprimer les frontieres entre dev & ops
 Moyen d'appliquer la philosophie
 Implement le devops
 Delivré meiux et plus vite
