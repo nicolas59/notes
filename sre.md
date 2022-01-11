@@ -29,4 +29,4 @@ Accepter les echecs, reduire les silos, implémenter à l'échelle, automatisati
 Supprimer les frontieres entre dev & ops
 Moyen d'appliquer la philosophie
 Implement le devops
-Delivré meiux et plus vite
+Delivré mieux et plus vite
