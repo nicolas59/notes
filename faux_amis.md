@@ -3,7 +3,7 @@ English | traduction| Exemple
 to achieve |  réaliser
 to end / to finish off  |   achever
 actually |en fait
-currently |acctuellement
+currently |actuellement
 an affair |relation amoureuse
 it's a bargain |c'est une bonne affaire
 it's none of your business |ce n'est pas tes affaires
