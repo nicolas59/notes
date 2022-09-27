@@ -52,7 +52,7 @@ to warn |prevenir qq un
 to resume |recommencer
 to sum up |resumer
 sensible |raisonnable
-stage la |scene
+stage |la scene
 internship |un stage
 to support |soutenir
 to stand / to bear / to put up with |supporter
