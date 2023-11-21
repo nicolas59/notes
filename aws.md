@@ -7,3 +7,9 @@ Lambda
 EC2 
 =====
 * Image CIS Center Internet Security. harderned Image pouvant être obtenue par Image Builder https://www.cisecurity.org/cis-hardened-images/amazon/
+
+
+Solution Backup
+======
+* AWS Backup
+* n2ws  https://n2ws.com/pricing
