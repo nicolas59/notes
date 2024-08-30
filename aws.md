@@ -8,6 +8,9 @@ EC2
 =====
 * Image CIS Center Internet Security. harderned Image pouvant être obtenue par Image Builder https://www.cisecurity.org/cis-hardened-images/amazon/
 
+S3
+=====
+* Solution generation url signée pour deposer plusieurs fichiers : https://github.com/jorzel/presigned-amazon-s3/blob/main/presigned_url.py
 
 Solution Backup
 ======
